@@ -29,7 +29,7 @@ public class SubWarehouse {
         maxChosenProfit =  0; //Update with your answer.
         
         //TODO: Enter your GUC mail here
-        String email = "";
+        String email = "zeyad.habash@student.guc.edu.eg";
         System.out.println("Email: " + email);
     }
 		
